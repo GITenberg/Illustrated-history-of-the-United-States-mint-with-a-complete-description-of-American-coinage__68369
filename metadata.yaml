@@ -1,0 +1,32 @@
+_repo: Illustrated-history-of-the-United-States-mint-with-a-complete-description-of-American-coinage__68369
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Evans, George Greenlief
+    alias: Evans, George G.
+    gutenberg_agent_id: '54745'
+    url: http://www.gutenberg.org/2009/agents/54745
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68369'
+  lccn: '06012436'
+language: en
+pgterms:marc904: https://archive.org/details/illustratedhisto0000evan
+pgterms:marc905: 20200630153138evans
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :George G. Evans,1888.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mints -- United States'
+- !lcsh 'Coinage -- United States'
+- !lcc 'HG'
+- GITenberg
+title: "Illustrated history of the United States mint\r\nwith a complete description\
+  \ of American coinage, from the earliest period to the present time"
+url: http://www.gutenberg.org/ebooks/68369
